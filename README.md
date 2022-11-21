@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/jacofsky/jacofsky/blob/output/snake.svg" alt="Snake animation" />
-
-###
